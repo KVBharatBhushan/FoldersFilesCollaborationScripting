@@ -1,5 +1,5 @@
 ﻿#Config Variables
-$SiteURL = "https://client.sharepoint.com/sites/S022-013-IS/DemoMigration"
+$SiteURL = "https://clienteur.sharepoint.com/sites/S022-013-IS/DemoMigration"
 $CSVFilePath = "D:\Bharat\Folders_SameLib.csv"
   
 Try {

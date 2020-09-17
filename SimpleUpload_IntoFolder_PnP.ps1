@@ -1,8 +1,8 @@
 ﻿#Install-Module SharePointPnPPowerShellOnline
 #Variables
 $SiteURL = "https://clienteur.sharepoint.com/sites/S022-013-IS/DemoMigration"
-$FilesPath = "C:\Users\7000023594\Dummy Files2"
-$SiteRelativePath = "/DemoLibrary/Barry"
+$FilesPath = "C:\Users\123594\Dummy Files2"
+$SiteRelativePath = "/Reports Archive/Barry"
  
 #Connect to PNP Online
 Connect-PnPOnline -Url $SiteURL -UseWebLogin 
